@@ -1,0 +1,3 @@
+in root account run:
+apt install sudo
+addgroup username sudo
